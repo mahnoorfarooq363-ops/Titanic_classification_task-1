@@ -20,6 +20,7 @@ This project predicts the survival of Titanic passengers using a **Random Forest
    - Feature importance
    - Confusion matrix & classification report
    - CSV file with predicted results for the test set (`titanic_predictions.csv`)
+   ## output file is also attached 
 
 ## Author
 Mahnoor Farooq
